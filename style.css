@@ -1,7 +1,7 @@
 body {
     padding: 100px;
     background-color: rgb(127, 174, 255);
-    font-size: 30px;
+    font-size: 32px;
 }
 .header-container img {
     width: 60%;
@@ -47,3 +47,16 @@ p {
     margin: 40px;
     margin-top: 0;
 }
+h2 {
+    color: blue;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.img5 {
+    width: 500px;
+    height:200x;
+    float: left;
+}
+
+    
