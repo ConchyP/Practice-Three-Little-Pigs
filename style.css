@@ -20,16 +20,19 @@ p {
     text-indent: 2em;
 }
 .img1 {
-    width: 400px;
+    width: 500px;
     height: 200x;
     float: left;
     margin: 40px;
     margin-top: 0;
 }
 .img2 {
-    width: 400px;
+    width: 500px;
     height: 200x;
     float: right;
     margin: 40px;
     margin-top: 0;
+}
+.p1 {
+    text-align: center;
 }
