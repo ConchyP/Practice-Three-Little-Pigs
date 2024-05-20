@@ -16,3 +16,12 @@ body {
     font-size:  80px;
     color: rgb(208, 92, 9)
 }
+p {
+    text-indent: 2em;
+}
+img {
+    width: 400px;
+    height: 200x;
+    float: left;
+    margin: 10px;
+}
